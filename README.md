@@ -7,12 +7,12 @@ This is a demo repo for a group project.
 
 Suki: I like my coffee with a bit of milk, and no sugar
 
-Thea: abcdefgj
+Thea:
 
-Julia: xyzxyzxyz
+Julia:
 
-Lauren: tea
+Lauren:
 
-Amanda: also tea
+Amanda:
 
-Galen: maybe coffee
+Galen:
