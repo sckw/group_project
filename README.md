@@ -11,8 +11,8 @@ Thea: abcdefgj
 
 Julia: xyzxyzxyz
 
-Lauren:
+Lauren: tea
 
-Amanda:
+Amanda: also tea
 
-Galen:
+Galen: 
