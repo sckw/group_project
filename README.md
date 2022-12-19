@@ -8,7 +8,7 @@ Suki: I like my coffee with a bit of milk, and no sugar
 
 Thea: I only drink tea
 
-Julia:
+Julia: I don't coffee - I stick to water 
 
 Lauren:
 
