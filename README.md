@@ -5,7 +5,7 @@ This is a demo repo for a group project.
 ![coffee](coffee.jpg)
 
 
-Suki: I like my coffee with a bit of milk, and no sugar.
+Suki: I like my coffee with a bit of milk, and no sugar
 
 Thea:
 
