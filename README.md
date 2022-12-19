@@ -7,7 +7,7 @@ This is a demo repo for a group project.
 
 Suki: I like my coffee with a bit of milk, and no sugar
 
-Thea:
+Thea: abcdefgj
 
 Julia:
 
