@@ -6,9 +6,9 @@ This is a demo repo for a group project.
 
 Suki: I like my coffee with a bit of milk, and no sugar
 
-Thea: I only drink tea
+Thea:
 
-Julia: I don't coffee - I stick to water 
+Julia:
 
 Lauren:
 
